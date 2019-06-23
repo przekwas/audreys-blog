@@ -1,0 +1,13 @@
+body { 
+    background-color: rgba( 37, 53, 30,1);
+    color: white;
+}
+
+a {
+    color: rgb(218, 123, 141);
+}
+
+blockquote {
+    background-color: rgba(58, 33, 37, 1);
+    color: white;
+}
